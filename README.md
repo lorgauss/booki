@@ -35,6 +35,7 @@ Sarah, CTO @Booki"
 
 ## Soutenance
 date de validation
+
 _3 juin 2022_
 
 point fort :
